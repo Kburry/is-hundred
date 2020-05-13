@@ -30,7 +30,7 @@
  * but we still have a bit to go
  * 
  * 
- * I spent way to long at this
+ * I spent way too long at this
  * 
  * 
  * rewriting the tests in the name of 10x was a chore
